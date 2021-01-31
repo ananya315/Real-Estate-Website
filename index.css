@@ -46,7 +46,7 @@
     flex-direction: row;
     flex-flow: row wrap;
     text-align: center;
-    margin-top: -15%;
+    margin-top: -13%;
     margin-left: 13%;
 }
 .contain-box{
@@ -54,6 +54,7 @@
     border: 2px solid white;
     background-color: white;
     width: 500px;
+    height: 230px;
     padding: 15px 15px;
     border-radius: 20px;
     box-shadow: 7px 7px 25px 5px grey;
